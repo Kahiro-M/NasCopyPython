@@ -1,0 +1,8 @@
+.env/*
+*.log
+*.csv
+_*.*
+build/*
+dist/*
+*.spec
+.vscode/*
